@@ -1,0 +1,26 @@
+p	{ 
+    text-indent: 5%;
+	color: white;
+    }
+h1	{
+	color: red;
+	text-align: center;
+	text-shadow: 10px 2px 5px #7FFFD4;
+	}
+h2	{
+	color: blue;
+	font-style: italic;
+	}
+h3	{
+	color: green;
+	}
+body	{
+		background-image: url("https://d3b4yo2b5lbfy.cloudfront.net/wp-content/uploads/wallpapers/aadb3GoM-wallpaper-1920x1200.jpg");
+		background-color: #cccccc;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		img {
+			opacity: 0.5;
+			}
+		}
